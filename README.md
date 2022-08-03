@@ -4,7 +4,7 @@
 
 - Sou formado em Análise e Desenvolvimento de Sistemas.
 
-- :exclamation: Este é um repositório pessoal, por enquanto é utilizado para fins didádicos.
+- :exclamation: Este é um repositório pessoal, por enquanto utilizado para fins didádicos.
 
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mucarb&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
